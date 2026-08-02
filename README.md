@@ -1,8 +1,4 @@
-# Desafios Java — Do Básico à Integração Total
-
-Uma coleção de **30 desafios de programação em Java**, feita para revisar e fixar todo o conteúdo básico da linguagem através de problemas realistas, no estilo de plataformas como Beecrowd, LeetCode e HackerRank.
-
-Aqui você **não vai encontrar teoria nem soluções prontas**. Cada desafio é um enunciado completo, com regras, exemplos e casos de teste, seguido de um arquivo `.java` com a estrutura inicial pronta para você implementar sua solução.
+# Desafios Java
 
 
 ## Conteúdos utilizados
@@ -104,4 +100,3 @@ Marque conforme for concluindo cada desafio:
 
 ---
 
-Bons estudos e bom raciocínio! 🚀
